@@ -1,0 +1,65 @@
+[33mcommit 4642b99fb474813b5556abd0d9b690ac5f54f328[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Paulow98 <paulow98@hotmail.com>
+Date:   Thu Apr 26 10:39:47 2018 +0000
+
+    Added 2 lines of writeline
+
+[33mcommit ffbf6efbc16f41b8f6a39cf53d7c24aa855028d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:19:38 2018 +0100
+
+    Add yet more comments
+
+[33mcommit cb663c3d51a1155fa78fa1a6bb1449e8c6c438a8[m[33m ([m[1;33mtag: v1.0.1[m[33m)[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:18:41 2018 +0100
+
+    Add some comments
+
+[33mcommit 0f20f3ce0bea59a889f4b64fc89d89ae9a5ec29b[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:16:58 2018 +0100
+
+    Convert program to be a bit more object-oriented
+
+[33mcommit d4a92373b28a8afb0c96f55c22d0ec311dc401f7[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:14:43 2018 +0100
+
+    Make sure CMD doesn't close when program is finished
+
+[33mcommit 72002a788e408c20a52cd3dbc48df3954c2489c7[m[33m ([m[1;33mtag: v0.0.2[m[33m)[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:13:04 2018 +0100
+
+    Add new message specifying what git tags are good for
+
+[33mcommit c2fd2c4cb16ea17db9e87129730d5c066bada207[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:11:27 2018 +0100
+
+    Fix bug: close unclosed double quote in string
+
+[33mcommit ab6b2164b9cac47570b70e9616babbae899fb873[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Tue Apr 24 15:10:59 2018 +0100
+
+    Change message to clarify we're talking about tags
+
+[33mcommit 37bf107d9aba9e2653305f4c9f0c96bff005810c[m[33m ([m[1;33mtag: v0.0.1[m[33m)[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Wed Mar 21 16:57:25 2018 +0000
+
+    Show a message to the user
+
+[33mcommit 90f5c69010fae45ef31509eed582a57f2b605b02[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Wed Mar 21 16:56:27 2018 +0000
+
+    Add project files.
+
+[33mcommit 632d13aeec833765feacffa16cef0641d97b6ab1[m
+Author: Nuno Fachada <nuno.fachada@ulusofona.pt>
+Date:   Wed Mar 21 16:56:25 2018 +0000
+
+    Add .gitignore and .gitattributes.

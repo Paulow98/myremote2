@@ -19,6 +19,8 @@ namespace TestProjectForGit
         {
             Console.WriteLine("I'm a test for git tags");
             Console.WriteLine("Tags are a good way to remember versions");
+            Console.WriteLine("Test at line 22");
+            Console.WriteLine("d");
             Console.ReadKey();
         }
     }
